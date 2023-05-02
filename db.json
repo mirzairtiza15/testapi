@@ -1,0 +1,66 @@
+[
+{
+"id": 0,
+"price": 1300,
+"title": "A Court of Thrones and Roses",
+"author": "SARAH J.MASS",
+"bookUrl": "https://i.ibb.co/qy7Fpcx/a-court-of-throne-roses.jpg",
+"category": "Fantasy Fiction"
+},
+{
+"id": 1,
+"price": 1450,
+"title": "A Court of Mist and Fury",
+"author": "SARAH J.MASS",
+"bookUrl": "https://i.ibb.co/RBXcpjz/a-court-of-mist-and-fury.jpg",
+"category": "Fantasy Fiction"
+},
+{
+"id": 2,
+"price": 1130,
+"title": "A Court of wings and Ruin",
+"author": "SARAH J.MASS",
+"bookUrl": "https://i.ibb.co/Hrg9BHs/a-court-of-wings-and-ruin.jpg",
+"category": "Fantasy Fiction"
+},
+{
+"id": 3,
+"price": 1150,
+"title": "It Ends With Us",
+"author": "Colleen Hoover",
+"bookUrl": "https://i.ibb.co/1zbvjxs/it-ends-with-us.jpg",
+"category": "Romance"
+},
+{
+"id": 4,
+"price": 1350,
+"title": "It Starts With Us",
+"author": "Colleen Hoover",
+"bookUrl": "https://i.ibb.co/H21tzBN/it-starts-with-us.jpg",
+"category": "Romance"
+},
+{
+"id": 5,
+"price": 1150,
+"title": "Ugly Love",
+"author": "Colleen Hoover",
+"bookUrl": "https://i.ibb.co/CzrFkCT/ugly-love.jpg",
+"category": "Romance"
+},
+{
+"id": 6,
+"price": 1250,
+"title": "How to Talk to Anyone",
+"author": "Leil Lowndes",
+"bookUrl": "https://i.ibb.co/MGrV5Wx/how-to-talk.jpg",
+"category": "self help"
+},
+{
+"id": 7,
+"price": 950,
+"title": "The Liar’s Dictionary",
+"author": "Eley Williams",
+"bookUrl": "https://i.ibb.co/Jkb6DR2/the-liars-dictionary.jpg",
+"category": "love"
+}
+]
